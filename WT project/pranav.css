@@ -1,0 +1,19 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+.menu{
+
+	width: 100px;
+	color: rrrr00;
+	align-items: left;
+
+
+}
+.menu .list{
+	margin-right: 90px:
+	 /*margin-left: 90px;*/
+        font-size: 30px;
+        font-weight: 100;
+        margin-top: 15px; 
+}
